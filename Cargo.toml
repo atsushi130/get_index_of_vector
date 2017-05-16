@@ -1,0 +1,10 @@
+[package]
+name = "get_index_of_vector"
+version = "1.0.0"
+authors = ["atmiyake <atmiyake@yahoo-corp.jp>"]
+
+[dependencies]
+
+[lib]
+name = "get_index_of_vector"
+path = "lib.rs"
