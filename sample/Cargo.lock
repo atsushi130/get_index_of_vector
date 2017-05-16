@@ -1,0 +1,11 @@
+[root]
+name = "sample"
+version = "1.0.0"
+dependencies = [
+ "get_index_of_vector 1.0.0",
+]
+
+[[package]]
+name = "get_index_of_vector"
+version = "1.0.0"
+
